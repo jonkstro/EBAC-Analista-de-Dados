@@ -1,2 +1,2 @@
-# Curso de SQL Para Análise de Dados - EBAC
+# Curso EBAC - Profissão Analista de Dados - André Perez
 ### Jonas Castro - 26/07/2022
